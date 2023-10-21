@@ -79,13 +79,13 @@ print("RMSE= ",rmse)
 ### Head and Tail Values:
 ![head_tail](https://github.com/A-Thiyagarajan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707693/9a45ea65-3698-4c4d-9cb3-ac00dc4add67)
 
-### X and Y values:
+### Predication values of X and Y:
 ![x y](https://github.com/A-Thiyagarajan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707693/cd0dfb84-9cc5-4bb4-9deb-a7f383913a33)
 
-### Predication values of X and Y:
+### Training Set
 ![train](https://github.com/A-Thiyagarajan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707693/e4db0074-88e5-4469-bac5-bb864dd7c5a2)
 
-### Training Set & Testing Set:
+### Testing Set:
 ![test](https://github.com/A-Thiyagarajan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707693/fdadd02c-f237-4ba6-8c28-bb6b9146ad6b)
 
 ### MSE,MAE and RMSE:
